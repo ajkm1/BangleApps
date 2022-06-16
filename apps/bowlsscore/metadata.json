@@ -1,7 +1,7 @@
 { "id": "bowlsscore",
     "name": "Bowls Score",
     "shortName":"bowlsscore",
-    "version":"0.01",
+    "version":"0.02",
     "description": "Keeps track of shots per end during a Lawn Bowls game; with thanks to Michael Salaverry's Golf Score app from which this is derived. App icon from Tommy Suhartomo @ https://thenounproject.com/AbtoCreative/",
     "icon": "app.png",
     "tags": "outdoors",
