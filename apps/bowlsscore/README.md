@@ -14,7 +14,7 @@ Usage
 	9	At any time, check the score card for a sum total of the shots for each team.
 
 Features
-Track strokes for multiple teams (1-20) Set number of ends in a game.
+Track shots per end for multiple teams (1-20); set number of ends in a game.
 
 Requests
 Andrew Keegan (GitHub.com/ajkm1) (not that I'm likely to be able to help you though! Not really a programmer...)
